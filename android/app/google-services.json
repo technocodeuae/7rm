@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941013925618",
+    "project_id": "rmapp-3cb49",
+    "storage_bucket": "rmapp-3cb49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941013925618:android:d1cc03d8feb2893c0a1a6b",
+        "android_client_info": {
+          "package_name": "com.example.sevin_rm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClTLQOnaPTFqnMtlnXggxdsg-tdHzhaLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
